@@ -16,7 +16,7 @@
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo)
->자취생을 위한 식단 관리 및 AI 추천 서비스 (팀 프로젝트)  
+>openAI API를 활용한 chatGPT 기반 AI 식단 추천 및 관리 서비스 (팀 프로젝트)  
 >개발 기간: 2023.11.28 ~ 2024.01.05  
 >  
 >기술 스택:  
