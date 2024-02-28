@@ -10,7 +10,6 @@
 
 ## :pushpin: Contact
 - 이메일: hyeonmin951@naver.com
-- 블로그: 
 - 깃헙: https://github.com/chm951
 
 </br>
