@@ -1,10 +1,10 @@
 # 최현민 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-2
+>Just Do it!
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+안녕하세요, 주니어 개발자 최현민입니다. 
+비즈니스를 성장시키고 고객의 삶의 질을 높일 수 있는 IT 솔루션에 대해 공부하고 있습니다.
 
 </br>
 
@@ -17,12 +17,12 @@
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>자취생을 위한 식단 관리 및 AI 추천 서비스 (핵심 프로젝트)  
+>개발 기간: 2023.11.28 ~ 2024.01.05  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 17 / JSP / Servlet / Maven / Oracle SQLD / Gson Library  
+>MyBatis / Lombok / Python / Apache Tomcat9.0 / JS / Fullcalendar Library / openAI ChatGPT API
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/energizoRePo) 참고
 
