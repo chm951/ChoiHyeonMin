@@ -27,4 +27,17 @@
 
 ---
 
+### 2. [포트폴리오](https://github.com/chm951/board)
+>게시판 CRUD
+>개발 기간: 2023.11.28 ~ 2024.01.05  
+>  
+>기술 스택:  
+>Java 17 / JSP / Servlet / Maven / MySQL
+>MyBatis / Apache Tomcat9.0 / JS /
+>  
+>[프로젝트 상세 설명](https://github.com/chm951/board) 참고
+
+---
+
+
 
